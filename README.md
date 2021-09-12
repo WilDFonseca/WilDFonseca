@@ -13,8 +13,8 @@
  <br>
 
 - 👋 Hi! I’m @WilDFonseca
-- 👀 I’m interested in Frontend, Data Science, Deep Learning and AI.
-- 🌱 I’m currently learning Python and JavaScript.
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently React.js and Node.js.
 - 💞️ I’m looking to collaborate on any Frontend project.
 - 📫 How to reach me: wildneyfonseca@gmail.com
 
