@@ -14,7 +14,7 @@
 
 - 👋 Hi! I’m @WilDFonseca
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learing React.js and Node.js.
+- 🌱 I’m currently learing React.js and Django.py.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me: wildneyfonseca@gmail.com
 
