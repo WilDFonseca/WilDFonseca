@@ -1,4 +1,4 @@
-<div>
+<!---<div>
   <a href="https://github.com/WilDFonseca">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wildfonseca&show_icons=true&theme=github_dark&include_all_commits=true&count_private+true"/>
   <img height="160em" scr="https://github-readme-stats.vercel.app/api/top-langs/username=wildfonseca&layout=compact&theme=github_dark"/>
@@ -10,7 +10,7 @@
   <img aling= "center" alt="Wil-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img aling= "center" alt="Wil-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
  </div>
- <br>
+ <br>--->
 
 - 👋 Hi! I’m @WilDFonseca
 - 👀 I have been working with Web development for 3 years.
