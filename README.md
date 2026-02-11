@@ -14,7 +14,7 @@
 
 - 👋 Hi! I’m @WilDFonseca
 - 👀 I have been working with Web development for 3 years.
-- 🌱 I’m currently improving my React.js and Django.py skills.
+- 🌱 I’m currently improving my AI and Django.py skills.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me: wildneyfonseca@gmail.com
 
